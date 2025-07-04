@@ -12,7 +12,7 @@ It includes:
 ---
 
 ## 🔗 Live Dashboard
-[Click here to view the live Tableau dashboard](https://public.tableau.com/your-link-here)
+[Click here to view the live Tableau dashboard]([https://public.tableau.com/your-link-here](https://public.tableau.com/app/profile/aadya.sudhir/viz/LetterboxdVisualDashboardFanFavoritesPosters/Dashboard1))
 
 ---
 
