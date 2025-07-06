@@ -26,6 +26,3 @@ Sourced from: [Kaggle - Letterboxd Dataset](https://www.kaggle.com/datasets/gsim
 
 ---
 
-## 🙋‍♀️ About Me
-I'm Aadya — a data science enthusiast using storytelling and design to explore datasets I love!  
-
